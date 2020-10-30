@@ -57,6 +57,7 @@ footer {
   }
 .img1,.img2 {
     border-radius:20px;
+  width:50%;
     }
 .img1:hover {
   opacity:.7;
